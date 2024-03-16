@@ -58,4 +58,3 @@ else:
     print('You lost!')
 
 
-#instructor's method:
