@@ -1,6 +1,7 @@
 import random
-your_turn = int(input("what do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. "))
+your_turn = int(input("what do you choose?Type 0 for Rock, 1 for Paper or 2 for Scissors. "))
 computer_turn = random.randint(0,2)
+
 
 rock = """
     _______
